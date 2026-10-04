@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# Temporary files
+*.cache
+*.tmp
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini

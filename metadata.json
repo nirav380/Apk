@@ -1,0 +1,8 @@
+{
+  "name": "Coop Society",
+  "description": "Credit Co-Operative Society management app for members, loans, daily collections, and NPA recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
